@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -isystem /usr/include/opencv4
+CXX_INCLUDES = -I/home/dev/Desktop/RBE549CV/Depth-Estimation-Stereo/include -I/home/dev/Desktop/RBE549CV/Depth-Estimation-Stereo/include/opencv2 -isystem /usr/include/opencv4
 
 CXX_FLAGS = 
 
